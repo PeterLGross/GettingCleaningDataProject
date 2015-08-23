@@ -31,7 +31,7 @@ The run_analysis.R script is designed with the following assumptions:
 
 It made more sense to me to do them in the order that I followed.
 
-### The raw data in the intertial signals folders is not necessary for completing the objectives
+### The raw data in the inertial signals folders is not necessary for completing the objectives
 
 It doesn't contain any means or standard deviations of measurements. And it is big.
 
